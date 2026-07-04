@@ -8,7 +8,7 @@
 
 ### 🕵️‍♂️ More About Me
 - 👤 **Name:** Om Nitin Bhanushali
-- 🌍 **From:** Navi Mumbai (India)
+- 🌍 **From:** Mumbai (India)
 - 🎯 **Roles:** Bug Hunter | Penetration Tester | Triage Analyst
 - 🧠 **Experience in:** Web App Pen Testing, Mobile Pen Testing (eMAPT), Vulnerability Management.
 - 📚 **Improving knowledge in:** Advanced Reconnaissance & Offensive Security.
@@ -17,10 +17,9 @@
 - 🌐 **Portfolio:** [tsx-ninja.github.io](https://tsx-ninja.github.io/)
 
 ### ⚡ Present Status
-- 👉 **Working as:** Junior Penetration Tester & Triage Analyst @ LEXZUR DWC-LLC.
 - 👉 **Still Learning:** Deep Web/Mobile architectures & Zero-day research.
 - 👉 **Building:** Automation scripts & Custom OSINT Tools (like ReconX).
-- 👉 **Hunting on:** HackerOne & Bugcrowd (150+ Organizations Secured).
+- 👉 **Hunting on:** Self Hosted, HackerOne, Bugcrowd & many more Security Platforms (150+ Organizations Secured).
 
 <hr>
 
